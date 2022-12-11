@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // cout << "Merry Christmas" << endl;
     cout << "*     *   *-----*   *----*     *----*     *     *" << endl;
     cout << "|\\   /|   |         |     \\    |     \\     \\   / " << endl;
     cout << "| \\ / |   |         |     /    |     /      \\ /  " << endl;
